@@ -1,0 +1,30 @@
+.testoCentrale{
+  font-size: 70px;
+  padding-top: 10px;
+}
+.quantiprof{
+  padding-top: 10px;
+  font-size: 20px;
+  padding-bottom:10px;
+}
+.bottone1 {
+  padding-top: 10px;
+  color:white;
+  width: 200px;
+  height: 70px;
+  text-align: center;
+  background-color: blue;
+}
+.testoAmm{
+  font-size: 50px;
+  padding-top: 10px;
+  padding-bottom:20px
+}
+.formNuovoD{
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.bottonereg{
+  text-align: center;
+  background-color: #f93232;
+}
